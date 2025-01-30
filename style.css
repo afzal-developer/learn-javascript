@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(236, 232, 255);
+    padding: 20px 80px;
+    text-align: center;
+}
+body ul{
+    list-style-type: none;
+}
